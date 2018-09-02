@@ -8,8 +8,8 @@
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 
-	<artifactId>mybatis-quickstart</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>mybatis-springboot</artifactId>
+	<version>${project.version}</version>
 	<packaging>jar</packaging>
 
 	<name>mybatis-springboot</name>

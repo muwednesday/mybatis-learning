@@ -10,6 +10,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>mybatis-quickstart</artifactId>
+    <version>${project.version}</version>
+    <packaging>jar</packaging>
 
     <name>mybatis-quickstart</name>
+
 </project>
